@@ -284,11 +284,20 @@ The Streamlit app provides:
 - **CSV Export**: Download filtered data for custom analysis
 - **AI Predictions**: Input today's metrics → Get tomorrow's forecast
 
+<img width="1917" height="933" alt="image" src="https://github.com/user-attachments/assets/da23f25a-a302-490c-9010-b21e9d954316" />
+<img width="1419" height="802" alt="image" src="https://github.com/user-attachments/assets/dc017fae-29a1-46c6-8b03-07a10875a4f7" />
+<img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/52d02108-72b2-4520-b226-c542743378c8" />
+<img width="1465" height="883" alt="image" src="https://github.com/user-attachments/assets/f403b190-614f-4eb0-a203-827a5b1a15e5" />
+
+
 ### **ML Model Performance**
 - **Training Samples**: 8,500+ daily trader records
 - **Feature Count**: 4 (trades, PnL, win rate, sentiment)
 - **Architecture**: Random Forest (100 trees, max depth 5)
 - **Validation Approach**: Time-series split (avoid lookahead bias)
+
+<img width="1784" height="484" alt="image" src="https://github.com/user-attachments/assets/3bebe2da-a5c3-40bc-b2bf-c0ca9ff016c3" />
+<img width="1035" height="479" alt="image" src="https://github.com/user-attachments/assets/03e62242-03dc-4d53-99dc-8db78e540a75" />
 
 ---
 
@@ -304,9 +313,9 @@ The Streamlit app provides:
 
 ## 📞 Contact & Submission
 
-**Author**: [Your Name]  
-**Email**: [Your Email]  
-**Submission Date**: [Date]  
+**Author**: Akshat Arora <br>
+**Email**: akshatarora1299@gmail.com <br>
+**Submission Date**: 20/02/2026 <br>
 **Assignment**: Data Science/Analytics Intern – Round-0 (Primetrade.ai)
 
 ---
